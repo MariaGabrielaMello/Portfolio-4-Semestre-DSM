@@ -74,8 +74,7 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 ### 2º Semestre de 2023
 
 #### Sistema acadêmico de TI (SAT)
-
-<img src="./img/Captura de tela 2024-06-24 110925.png" style = "width: 50%" alt = "Imagem Projeto2">
+![Captura de tela 2023-12-10 172037](https://github.com/user-attachments/assets/2721a4da-fa11-45a4-88b1-ea1b52913ae9)
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
