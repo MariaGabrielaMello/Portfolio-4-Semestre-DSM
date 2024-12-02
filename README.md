@@ -42,11 +42,11 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 
 #### Tecnologias utilizadas
 
-- Python: sei fazer com relativa automonomia
+- Python: sei fazer com automonomia
 - HTML & CSS3: sei fazer com autonomia
 - Flask: sei fazer com autonomia
 - Bootstrap: sei fazer com autonomia
-- MySQL: sei fazer com relativa automonomia
+- MySQL: sei fazer com automonomia
 - GitHub: sei fazer com autonomia
 - Figma: sei fazer com autonomia
 
@@ -64,8 +64,8 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
   - Empatia: desenvolvido para compreender e apoiar mais a minha equipe e para compreender melhor os desejos do cliente.
 
 - Hard Skills:
-  - Python, trabalhando com raspagem e tratamento de dados públicos e privados: sei fazer com relativa automonomia
-  - Programação em MySQL: sei fazer com relativa automonomia
+  - Python, trabalhando com raspagem e tratamento de dados públicos e privados: sei fazer com automonomia
+  - Programação em MySQL: sei fazer com automonomia
   - Desenvolvimento com o flask, html e css: sei fazer com automonomia
   - Aprendizado em documentação de projetos no github: sei fazer com automonomia
 
@@ -121,11 +121,11 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
    -  Autonomia: para contribuir com a equipe e o desenvolvimento do projeto tendo em consideração as minhas responsabilidades e tomando decisões conforme o método scrum, onde ná há chefes.
   
  - Hard Skills:
-   - Programação em Typescript e JavaScript: sei fazer com relativa automonomia
+   - Programação em Typescript e JavaScript: sei fazer com automonomia
    - Desenvolvimento com Prisma: sei fazer com relativa automonomia
    - Estilização com styled componentes: sei fazer com automonomia
    - Desenvolvimento com react e axios: sei fazer com automonomia
-   - Aprimoração na utilização do Github (submódulos): sei fazer com relativa automonomia
+   - Aprimoração na utilização do Github (submódulos): sei fazer com automonomia
 
 
 <h6 align="center"> Link do projeto: https://github.com/FocusQuest/FocusQuestAPI</h6>
@@ -182,12 +182,68 @@ Desenvolvimento das páginas e elaboração da lógica para a listagem de ativos
   
 - Hard Skills:
   - Typescript e de React: sei fazer com autonomia
-  - PostgreSQL: sei fazer com relativa autonomia
+  - PostgreSQL: sei fazer com autonomia
   - Supabase: sei fazer com relativa autonomia
-  - Conexão do front-end feito com o back-end: sei fazer com relativa autonimia
+  - Conexão do front-end feito com o back-end: sei fazer com autonimia
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
 
 ### Melhorias e Aprimoramento
 
 - Domínio da linguagem Java: foi introduzida neste semestre e continuará sendo utilizada durante o próximo, além de ser uma das linguagens mais utilizadas atualmente. Pretendo me aprofundar no backend como neste último projeto participei principalmente em atividades da área de frontend. Assim, quero nivelar os meus conhecimentos e fortalecer meus pontos fracos.
+
+- ### 4º Semestre 2024
+
+#### TecSus - Sistema de Monitoramento ambiental
+
+Cliente: TecSus.
+
+![image](https://github.com/user-attachments/assets/cffe62de-a503-4ab7-85f8-5983b8fd7871)
+ 
+<h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_4</h6>
+
+#### Visão do projeto
+
+<p>Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplataforma, da Fatec São José dos Campos - Prof. Jessen Vidal.
+Com o objetivo de desenvolver um sistema onde os dados coletados pelos sensores de direção e velocidade do vento, índice pluviométrico, umidade, temperatura e pressão devem ser recepcionados, tratados e exibidos em um portal capaz de disponibilizar relatórios, dashboards e demonstrar os conceitos matemáticos envolvidos nos cálculos dos parâmetros, bem como relacionar a importância do monitoramento ambiental como ferramenta para evitar desastres naturais através da geração de alertas.</p>
+
+#### Tecnologias adotadas
+
+- Figma
+- Git
+- GitHub
+- TypeScript
+- PostgreSQL
+- Taiga
+- Redris
+- NeonTech
+- React
+- Swagger
+
+#### Principais atividades desenvolvidas como time de deselvolvimento:
+
+Atuei principalmente nas atividades do Front-end como o CRUD do sistema e sua integração com o Back-end, conteúdo institucional e manual do usuário e na segurança do sistema como a implementação do TOKEN para proteção de rotas e restrição de acesso.
+
+#### Aprendizados
+
+- Soft Skills:
+  - Gerenciamento de tempo: para poder entregar de forma mais ágil e eficiente as tarefas, cumprindo prazos e visando o sucesso do projeto.
+  - Adaptabilidade: habilidade aprimorada para aprender poder realizar a integração de software com o hardware, o que foi um aprendizado diferente com relação aos projetos desenvolvidos anteriormente.
+  - Comunicação: crucial para poder trabalhar bem em equipe, esclarecendo e tirando dúvidas, para o desenvolvilemento da tarefa de DevOps, pois foi necessário chegar a um consenso com a equipe e garantir que todos estavam cientes da documentação e de cada etapa do projeto.
+  
+- Hard Skills:
+  - Git e Github: sei fazer com autonomia
+  - React: sei fazer com autonomia
+  - Typescript e de React: sei fazer com autonomia
+  - PostgreSQL: sei fazer com autonomia
+  - Taiga: sei fazer com autonomia
+  - Swagger: sei fazer com relativa autonomia
+  - NeonTech: sei fazer com relativa autonomia
+  - Redis: sei fazer com autonomia
+  - Conexão do front-end feito com o back-end: sei fazer com autonimia
+ 
+<h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
+
+### Melhorias e Aprimoramento
+
+- Integração Software/Hardware: Foi um novo desafio com relação aos projetos desenvolvidos anteriormente, sendo necessário integrar o sistema que desenvolvemos com a estaçã/placa e o sensor. Pretendo aprimorar meus conhecimentos em hardware para que possa desenvolver mais projetos como este futuramente.
