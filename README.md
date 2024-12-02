@@ -198,7 +198,8 @@ Desenvolvimento das páginas e elaboração da lógica para a listagem de ativos
 
 Cliente: TecSus.
 
-![image](https://github.com/user-attachments/assets/cffe62de-a503-4ab7-85f8-5983b8fd7871)
+![image](https://github.com/user-attachments/assets/295789ad-452c-48c2-b9b2-cd5ef410a367)
+
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_4</h6>
 
