@@ -26,11 +26,12 @@ Este portfólio acadêmico foi construído com projetos realizados até o moment
 
 ### 1º Semestre de 2023
 
+
 #### Sitema de análise - Covid longa
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
-<img src="./img/1Semestre_API_Wireframe.gif" style = "width: 50%" alt = "Gif Projeto1">
+![Captura de tela 2023-12-10 172037](https://github.com/user-attachments/assets/2721a4da-fa11-45a4-88b1-ea1b52913ae9)
 
 #### Visão do projeto
 
@@ -74,9 +75,9 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 ### 2º Semestre de 2023
 
 #### Sistema acadêmico de TI (SAT)
-![Captura de tela 2023-12-10 172037](https://github.com/user-attachments/assets/2721a4da-fa11-45a4-88b1-ea1b52913ae9)
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
+![Captura de tela 2024-06-24 110925](https://github.com/user-attachments/assets/66ae1614-3e1a-43de-93ea-20ad96c83c36)
 
 - Demonstração do usuário:
 https://www.youtube.com/watch?v=VdPHdYxlXpk
